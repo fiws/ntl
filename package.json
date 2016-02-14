@@ -1,7 +1,7 @@
 {
   "name": "ntl",
   "version": "1.0.0",
-  "description": "Npm Task List: Interactive cli menu to list/run npm tasks",
+  "description": "npm Task List: Interactive cli menu to list/run npm tasks",
   "repository": "ruyadorno/ntl",
   "author": {
     "name": "Ruy Adorno",

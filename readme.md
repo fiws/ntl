@@ -1,6 +1,6 @@
 # ntl [![NPM version](https://badge.fury.io/js/ntl.svg)](https://npmjs.org/package/ntl) [![Build Status](https://travis-ci.org/ruyadorno/ntl.svg?branch=master)](https://travis-ci.org/ruyadorno/ntl)
 
-> Npm Task List
+> npm Task List
 
 Interactive cli menu to list and run npm tasks.
 

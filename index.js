@@ -56,7 +56,7 @@ module.exports = function (p, exec, log, cwd, tasks, options) {
 			return;
 		}
 
-		log.info('Npm Task List - v' + pkg.version);
+		log.info('npm Task List - v' + pkg.version);
 
 		var prompt = inquirer.createPromptModule({
 			input: p.stdin,
